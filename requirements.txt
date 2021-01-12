@@ -1,0 +1,5 @@
+dnspython
+python-telegram-bot
+Flask
+requests
+spamwatch
