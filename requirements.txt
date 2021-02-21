@@ -1,5 +1,3 @@
-dnspython
-python-telegram-bot
-Flask
-requests
+deta
+fastapi
 spamwatch
